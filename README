@@ -17,9 +17,6 @@ category-selective regions.
 The file *used_mri_sequences.pdf* contains technical details regarding the MRI
 sequences used.
 
-The code used for preprocessing and analyzing the fMRI data is available on
-[GitHub][github].
-
 ## Analysis
 Code for performing the preprocessing of the raw fMRI data and fitting population receptive fields is available [here](https://figshare.com/articles/dataset/Population_Receptive_Field_Properties_in_Developmental_Prosopagnosics_and_Controls/29582888).
 
