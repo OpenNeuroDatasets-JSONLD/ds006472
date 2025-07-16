@@ -4,8 +4,8 @@
 
 Here we provide the raw fMRI responses from the paper *[Developmental
 prosopagnosics have normal spatial integration in posterior ventral face-
-selective regions](Daniel A. Stehr, Yiyuan Zhang, Anusha Patgiri, Alexis Kidder,
-Kendrick N. Kay, Bradley Duchaine)
+selective regions]* (Daniel A. Stehr, Yiyuan Zhang, Anusha Patgiri, Alexis Kidder,
+Kendrick N. Kay, Bradley C. Duchaine)
 
 Each participant underwent two fMRI data collection sessions. The first session
 consisted of an anatomical (T1w) scan and four runs of a multi-category
@@ -19,6 +19,9 @@ sequences used.
 
 The code used for preprocessing and analyzing the fMRI data is available on
 [GitHub][github].
+
+## Analysis
+Code for performing the preprocessing of the raw fMRI data and fitting population receptive fields is available at [here](https://figshare.com/articles/dataset/Population_Receptive_Field_Properties_in_Developmental_Prosopagnosics_and_Controls/29582888).
 
 ## Contact
 
